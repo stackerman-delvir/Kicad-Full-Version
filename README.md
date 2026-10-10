@@ -248,4 +248,4 @@ This repository serves as the official landing page for KiCad. The software is d
 **Get the most recent version of KiCad today!**
 
 ---
-**Last updated:** 2026-10-09 20:21:53 UTC
+**Last updated:** 2026-10-10 00:21:23 UTC
